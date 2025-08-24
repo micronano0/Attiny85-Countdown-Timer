@@ -23,7 +23,7 @@ Verwendete Teile:
 Taster mit Hebel: https://www.amazon.de/dp/B07YDFH7H3  
 Buzzer: https://www.amazon.de/dp/B09RFH1T8J  
 OLED: https://www.amazon.de/dp/B074N9VLZX  
-Attiny85: https://www.amazon.de/Entwicklungsboard-Binghe-kickstarter-Unterst%C3%BCtzung-kompatibel/dp/B0D8WB713R
+Attiny85: https://www.amazon.de/Entwicklungsboard-Binghe-kickstarter-Unterst%C3%BCtzung-kompatibel/dp/B0D8WB713R  
 9V Block: https://www.amazon.de/dp/B0DYD26BQ1  
 Ein.-Ausschalter: https://www.amazon.de/Gebildet-Kippschalter-Schiebeschalter-Positionen-Verriegelung/dp/B0BTM3WQXN  
 Taster für Minutenauswahl: nicht mehr gefunden ;-(
