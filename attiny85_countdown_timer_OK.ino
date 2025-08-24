@@ -1,19 +1,20 @@
 // kleine Anpassung an Schaltung:
 // https://www.youtube.com/watch?v=fnGzRqVI4YI
-
+// ---------------------------------------------------------------------------------------
+// wokwi: https://wokwi.com/projects/439648853914582017
 // ACHTUNG:
 // wird ein Attiny85 Digispark (China Teil) eingesetzt, dann 
-
+//
 // die türkise Leitung statt auf Masse, auf VCC umlegen
-
+//
 //    if(digitalRead(changecountdown)==0) {  // Countdown einstellen - Knopf gedrückt
 //    if(digitalRead(startcountdown)==0) { // Countdown starten - Knopf gedrückt
 // auf 
 //   if(digitalRead(changecountdown)==HIGH) {  // Countdown einstellen - Knopf gedrückt
 //    if(digitalRead(startcountdown)==HIGH) { // Countdown starten - Knopf gedrückt
 // ändern
-
-
+//
+//
 // Attiny85 Digispark Pinbelegung
 // P0 (PB0) -> OLED SDA
 // P1 (PB1) -> Button 1
@@ -21,16 +22,16 @@
 // P3 (PB3) -> Buzzer Plus
 // P4 (PB4) -> Button 2
 // P5 (PB5) nicht verwendet - Reset Pin
-
+//
 // Button 1 und Button 2 auf Plus legen
 // Buzzer auf GND
-
+//
 // OLED VCC nach 5V Plus
 // OLED GND -> GND
-
+//
 // Attiny85 Digispark 5V -> 5V Plus 
 // Attiny85 Digispark GND -> GND
-
+// ---------------------------------------------------------------------------------------
 
 #include <TinyWireM.h>
 #include <Tiny4kOLED.h>
@@ -171,3 +172,4 @@ void updateDisplay() {
   }
   
 }
+
