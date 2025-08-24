@@ -1,4 +1,4 @@
-// kleine Anpassung an Schaltung:
+// kleine Anpassung an Volos Schaltung:
 // https://www.youtube.com/watch?v=fnGzRqVI4YI
 // ---------------------------------------------------------------------------------------
 // wokwi: https://wokwi.com/projects/439648853914582017
@@ -172,4 +172,5 @@ void updateDisplay() {
   }
   
 }
+
 
